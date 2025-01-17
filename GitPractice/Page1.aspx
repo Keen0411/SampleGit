@@ -7,12 +7,10 @@
     </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <h2> Practice Page</h2>
-    <p> Sample Content </p>
+    <h2>Page 1</h2>
+    <p>
+        This is Page 1
 
-    <div>
-
-        <p>add</p>
-    </div>
+    </p>
 
 </asp:Content>
