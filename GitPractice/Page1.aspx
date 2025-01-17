@@ -11,7 +11,7 @@
     <p> Sample Content </p>
 
     <div>
-        <p> sample  in branch 1 </p>
+        <%--<asp:Button ID="btn_click" runat="server" Text="Button" OnClick="btn_click_Click" />--%>
         <p>add</p>
     </div>
 
