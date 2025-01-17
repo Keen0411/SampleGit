@@ -12,11 +12,6 @@
 
     <div>
         <p> sample </p>
-        <li>
-            <ul>
-                eyy
-            </ul>
-        </li>
     </div>
 
 </asp:Content>
